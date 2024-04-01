@@ -15,6 +15,7 @@
 		E54FB0F52BBAFB0000CF465C /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E54FB0F42BBAFB0000CF465C /* .gitignore */; };
 		E54FB0F92BBB002400CF465C /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = E54FB0F82BBB002400CF465C /* FirebaseAnalytics */; };
 		E54FB0FB2BBB002400CF465C /* FirebaseMessaging in Frameworks */ = {isa = PBXBuildFile; productRef = E54FB0FA2BBB002400CF465C /* FirebaseMessaging */; };
+		E54FB0FD2BBB06B100CF465C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E54FB0FC2BBB06B100CF465C /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E54FB0EC2BBAFAEB00CF465C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E54FB0EE2BBAFAEB00CF465C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E54FB0F42BBAFB0000CF465C /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		E54FB0FC2BBB06B100CF465C /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				E54FB0E92BBAFAEB00CF465C /* Assets.xcassets */,
 				E54FB0EB2BBAFAEB00CF465C /* LaunchScreen.storyboard */,
 				E54FB0EE2BBAFAEB00CF465C /* Info.plist */,
+				E54FB0FC2BBB06B100CF465C /* GoogleService-Info.plist */,
 			);
 			path = PushDemoApp;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			files = (
 				E54FB0F52BBAFB0000CF465C /* .gitignore in Resources */,
 				E54FB0ED2BBAFAEB00CF465C /* LaunchScreen.storyboard in Resources */,
+				E54FB0FD2BBB06B100CF465C /* GoogleService-Info.plist in Resources */,
 				E54FB0EA2BBAFAEB00CF465C /* Assets.xcassets in Resources */,
 				E54FB0E82BBAFAE900CF465C /* Main.storyboard in Resources */,
 			);
